@@ -4,7 +4,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on New Flutter Projects...
-- 👯 I’m looking to collaborate on Git Hub
 - 📫 How to reach me: [Gmail](mavuduru.123.sagar@gmail.com)
   ## Programing Knowledges I have 
      ### Dart
