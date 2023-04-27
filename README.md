@@ -2,7 +2,7 @@
 
 Experienced Full-Stack Developer with a passion for creating innovative and intuitive software solutions. Proficient in Flutter, Node.js, React.js, and Amazon Web Services.
 
-- 📫 How to reach me: [Gmail](mavuduru.123.sagar@gmail.com)
+- 📫 How to reach me: [Gmail](mavuduru.123.sagar@gmail.com) [LinkedIn](https://www.linkedin.com/in/vidya-sagar-129b17130/)
   ## Skills I have 
      ### Flutter
      ### ReactJs
