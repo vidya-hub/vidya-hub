@@ -1,12 +1,15 @@
 ### Hi, I'm Vidya sagar 👋🏼 👨🏻‍💻
 
-
-Here are some ideas to get you started:
+Experienced Full-Stack Developer with a passion for creating innovative and intuitive software solutions. Proficient in Flutter, Node.js, React.js, and Amazon Web Services.
 
 - 🔭 I’m currently working on Flutter...
 - 📫 How to reach me: [Gmail](mavuduru.123.sagar@gmail.com)
-  ## Programing Knowledges I have 
-     ### Dart
-     ### Python
-     ### Java Script
-     ### C#
+  ## Skills I have 
+     ### Flutter
+     ### ReactJs
+     ### NodeJs
+     ### AWS
+     ### Unity
+     ### Web Scraping
+     ### OpenCv
+     
