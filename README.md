@@ -2,7 +2,6 @@
 
 Experienced Full-Stack Developer with a passion for creating innovative and intuitive software solutions. Proficient in Flutter, Node.js, React.js, and Amazon Web Services.
 
-- 🔭 I’m currently working on Flutter...
 - 📫 How to reach me: [Gmail](mavuduru.123.sagar@gmail.com)
   ## Skills I have 
      ### Flutter
