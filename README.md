@@ -4,7 +4,6 @@ Experienced Full-Stack Developer with a passion for creating innovative and intu
 
 ## About Me
 
-- 💼 Flutter Devloper at ONPASSIVE
 - 🚀 Passionate about turning ideas into functional and efficient applications
 - 🌟 Skilled in Flutter, Node.js, React.js, and Amazon Web Services
 - 🐍 Python enthusiast exploring its diverse applications
