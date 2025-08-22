@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Software_Developer-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=333333" alt="Full-Stack Developer Badge" />
+  <img src="https://img.shields.io/badge/Software_Developer-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=333333" alt="Software Developer Badge" />
   
   <p><em>Experienced Software Developer crafting innovative and intuitive software solutions. I thrive on turning complex problems into elegant, user-friendly applications with high-quality code and seamless UX.</em></p>
 
@@ -28,7 +28,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full-Stack Developer** with expertise in building scalable, performant, and user-centric applications across mobile, web, and cloud platforms.
+I'm a passionate **Software Developer** with expertise in building scalable, performant, and user-centric applications across mobile, web, and cloud platforms.
 
 - 🚀 Dedicated to transforming ideas into **functional, efficient, and elegant solutions**
 - 💻 Proficient in **Flutter**, **React.js**, **Node.js**, and **AWS** — with hands-on experience in full product lifecycle
