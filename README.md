@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=333333" alt="Full-Stack Developer Badge" />
+  <img src="https://img.shields.io/badge/Software_Developer-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=333333" alt="Full-Stack Developer Badge" />
   
   <p><em>Experienced Full-Stack Developer crafting innovative and intuitive software solutions. I thrive on turning complex problems into elegant, user-friendly applications with high-quality code and seamless UX.</em></p>
 
