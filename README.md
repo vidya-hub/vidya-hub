@@ -1,20 +1,57 @@
-# Hello, I'm Vidya Sagar 👋
+<div align="center">
+  <h1 style="font-family: 'Segoe UI', sans-serif; 
+             font-size: 2.8em; 
+             font-weight: 700; 
+             background: linear-gradient(90deg, #2563eb, #059669); 
+             -webkit-background-clip: text; 
+             -webkit-text-fill-color: transparent; 
+             background-clip: text; 
+             text-shadow: none; 
+             margin: 0.5em 0;">
+    Hello, I'm Vidya Sagar 👋
+  </h1>
+</div>
 
-Experienced Full-Stack Developer with a passion for creating innovative and intuitive software solutions. I thrive on turning complex problems into elegant and user-friendly applications. With expertise in a range of technologies, I'm committed to delivering high-quality code and exceptional user experiences.
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=333333" alt="Full-Stack Developer Badge" />
+  
+  <p><em>Experienced Full-Stack Developer crafting innovative and intuitive software solutions. I thrive on turning complex problems into elegant, user-friendly applications with high-quality code and seamless UX.</em></p>
 
-# 💫 About Me:
-- 💡 Passionate about turning ideas into functional and efficient applications.
-- 💻 Skilled in Flutter, Node.js, React.js, and Amazon Web Services.
-- 🐍 Python enthusiast exploring its diverse applications.
-- 🌱 Currently learning about and contributing to open-source projects.
-- 🤝 Always open to collaboration on interesting projects.
+  <!-- Social Badges -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 16px 0;">
+    <a href="https://linkedin.com/in/sagar-vidya" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@vidsagar" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="mailto:mavuduru.123.sagar@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://vidsagar.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
+</div>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vidya-sagar-9b7b8a1b6/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@vidsagar)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mavuduru.123.sagar@gmail.com)
-![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&link=https%3A%2F%2Fvidsagar.vercel.app)
+## 💫 About Me
+
+I'm a passionate **Full-Stack Developer** with expertise in building scalable, performant, and user-centric applications across mobile, web, and cloud platforms.
+
+- 🚀 Dedicated to transforming ideas into **functional, efficient, and elegant solutions**
+- 💻 Proficient in **Flutter**, **React.js**, **Node.js**, and **AWS** — with hands-on experience in full product lifecycle
+- 🐍 Exploring the power of **Python** in automation, data analysis, and backend services
+- 🌱 Actively learning **AI/ML integration**, **system design**, and modern cloud architectures
+- 🤝 Open to **collaborations**, **contributions**, and discussions on innovative tech projects
+- 📚 Advocate for **clean code**, **documentation**, and **knowledge sharing** in the developer community
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Current_Focus-Flutter_%7C_AWS_%7C_AI/ML-blue?style=flat&logo=google-cloud" alt="Current Focus" />
+</div>
+
+---
 
 # 💻 My Tech Stack
 
@@ -81,13 +118,13 @@ Experienced Full-Stack Developer with a passion for creating innovative and intu
 
 ---
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidya-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div align="center">
 
 ✨ *Continuously learning and exploring new technologies to build scalable, intelligent, and user-friendly applications.*
 
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vidya-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vidya-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidya-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
