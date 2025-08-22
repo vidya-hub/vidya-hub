@@ -1,15 +1,5 @@
-<div align="center">
-  <h1 style="font-family: 'Segoe UI', sans-serif; 
-             font-size: 2.8em; 
-             font-weight: 700; 
-             background: linear-gradient(90deg, #2563eb, #059669); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent; 
-             background-clip: text; 
-             text-shadow: none; 
-             margin: 0.5em 0;">
-    Hello, I'm Vidya Sagar 👋
-  </h1>
+<div style="width: 100%;">
+    <img src="hello.svg" style="width: 100%;" alt="Hi I'm vidya sagar">
 </div>
 
 <div align="center">
