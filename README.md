@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Software_Developer-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=333333" alt="Full-Stack Developer Badge" />
   
-  <p><em>Experienced Full-Stack Developer crafting innovative and intuitive software solutions. I thrive on turning complex problems into elegant, user-friendly applications with high-quality code and seamless UX.</em></p>
+  <p><em>Experienced Software Developer crafting innovative and intuitive software solutions. I thrive on turning complex problems into elegant, user-friendly applications with high-quality code and seamless UX.</em></p>
 
   <!-- Social Badges -->
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 16px 0;">
