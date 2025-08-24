@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Software_Developer-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=333333" alt="Software Developer Badge" />
   
-  <p><em>Experienced Software Developer crafting innovative and intuitive software solutions. I thrive on turning complex problems into elegant, user-friendly applications with high-quality code and seamless UX.</em></p>
+  <p><em>✨ Continuously learning and exploring new technologies to build scalable, intelligent, and user-friendly applications ✨</em></p>
 
   <!-- Social Badges -->
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 16px 0;">
@@ -36,10 +36,6 @@ I'm a passionate **Software Developer** with expertise in building scalable, per
 - 🌱 Actively learning **AI/ML integration**, **system design**, and modern cloud architectures
 - 🤝 Open to **collaborations**, **contributions**, and discussions on innovative tech projects
 - 📚 Advocate for **clean code**, **documentation**, and **knowledge sharing** in the developer community
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Current_Focus-Flutter_%7C_AWS_%7C_AI/ML-blue?style=flat&logo=google-cloud" alt="Current Focus" />
-</div>
 
 ---
 
@@ -106,17 +102,24 @@ I'm a passionate **Software Developer** with expertise in building scalable, per
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## 📝 Recent Writings
-
-Here are some of my recent technical articles on Medium, sharing insights and practical guides:
-
-- **[Developing an MCP Server in Dart and Embedding It in Google Agent Development Kit](https://medium.com/@vidsagar/developing-an-mcp-server-in-dart-and-embedding-it-in-google-agent-development-kit-823c99af436e)** - A comprehensive guide on building MCP servers with Dart and integrating them into Google's Agent Development Kit.
-
-- **[Flutter & WebView Communication: A Practical Guide with PDF.js Integration](https://medium.com/@vidsagar/flutter-webview-communication-a-practical-guide-with-pdf-js-integration-66133c9d02f5)** - Deep dive into seamless communication between Flutter and WebView components, featuring PDF.js integration techniques.
-
-- **[Integration of Flutter App as a Component in React Native Android App](https://medium.com/@vidsagar/integrating-flutter-module-into-react-native-apps-33ff8359e4ab)** - Step-by-step implementation guide for embedding Flutter modules within React Native applications.
 
 ---
+
+# Tech writings
+
+
+| Title | Description | Link |
+|-------|-------------|------|
+| MCP Server in Dart | A comprehensive guide on building MCP servers with Dart and integrating them into Google's Agent Development Kit. | [Read here](https://medium.com/@vidsagar/developing-an-mcp-server-in-dart-and-embedding-it-in-google-agent-development-kit-823c99af436e) |
+| Flutter & WebView Communication | Deep dive into seamless communication between Flutter and WebView components, featuring PDF.js integration techniques. | [Read here](https://medium.com/@vidsagar/flutter-webview-communication-a-practical-guide-with-pdf-js-integration-66133c9d02f5) |
+| Flutter Module In React Native App | Step-by-step implementation guide for embedding Flutter modules within React Native applications. | [Read here](https://medium.com/@vidsagar/integrating-flutter-module-into-react-native-apps-33ff8359e4ab) |
+
+
+---
+
+
+
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidya-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
