@@ -106,6 +106,16 @@ I'm a passionate **Software Developer** with expertise in building scalable, per
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+## 📝 Recent Writings
+
+Here are some of my recent technical articles on Medium, sharing insights and practical guides:
+
+- **[Developing an MCP Server in Dart and Embedding It in Google Agent Development Kit](https://medium.com/@vidsagar/developing-an-mcp-server-in-dart-and-embedding-it-in-google-agent-development-kit-823c99af436e)** - A comprehensive guide on building MCP servers with Dart and integrating them into Google's Agent Development Kit.
+
+- **[Flutter & WebView Communication: A Practical Guide with PDF.js Integration](https://medium.com/@vidsagar/flutter-webview-communication-a-practical-guide-with-pdf-js-integration-66133c9d02f5)** - Deep dive into seamless communication between Flutter and WebView components, featuring PDF.js integration techniques.
+
+- **[Integration of Flutter App as a Component in React Native Android App](https://medium.com/@vidsagar/integrating-flutter-module-into-react-native-apps-33ff8359e4ab)** - Step-by-step implementation guide for embedding Flutter modules within React Native applications.
+
 ---
 
 ### 📊 GitHub Stats:
