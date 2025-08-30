@@ -110,9 +110,9 @@ I'm a passionate **Software Developer** with expertise in building scalable, per
 
 | Title | Description | Link |
 |-------|-------------|------|
-| MCP Server in Dart | A comprehensive guide on building MCP servers with Dart and integrating them into Google's Agent Development Kit. | [Read here](https://medium.com/@vidsagar/developing-an-mcp-server-in-dart-and-embedding-it-in-google-agent-development-kit-823c99af436e) |
-| Flutter & WebView Communication | Deep dive into seamless communication between Flutter and WebView components, featuring PDF.js integration techniques. | [Read here](https://medium.com/@vidsagar/flutter-webview-communication-a-practical-guide-with-pdf-js-integration-66133c9d02f5) |
-| Flutter Module In React Native App | Step-by-step implementation guide for embedding Flutter modules within React Native applications. | [Read here](https://medium.com/@vidsagar/integrating-flutter-module-into-react-native-apps-33ff8359e4ab) |
+| MCP Server in Dart | A comprehensive guide on building MCP servers with Dart and integrating them into Google's Agent Development Kit. | [Read](https://medium.com/@vidsagar/developing-an-mcp-server-in-dart-and-embedding-it-in-google-agent-development-kit-823c99af436e) |
+| Flutter & WebView Communication | Deep dive into seamless communication between Flutter and WebView components, featuring PDF.js integration techniques. | [Read](https://medium.com/@vidsagar/flutter-webview-communication-a-practical-guide-with-pdf-js-integration-66133c9d02f5) |
+| Flutter Module In React Native App | Step-by-step implementation guide for embedding Flutter modules within React Native applications. | [Read](https://medium.com/@vidsagar/integrating-flutter-module-into-react-native-apps-33ff8359e4ab) |
 
 
 ---
