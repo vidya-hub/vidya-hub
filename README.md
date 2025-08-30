@@ -1,5 +1,5 @@
-<div style="width: 100%;">
-    <img src="hello.svg" style="width: 100%;" alt="Hi I'm vidya sagar">
+<div align="center">
+  <h1><b>Hi there, I'm Vidya Sagar 👋</b></h1>
 </div>
 
 <div align="center">
